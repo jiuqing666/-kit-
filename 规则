@@ -17,6 +17,7 @@ DOMAIN,dlied1.qq.com,PROXY
 DOMAIN,jsonatm.broker.tplay.qq.com,PROXY
 DOMAIN-KEYWORD,smoba,DIRECT
 DOMAIN,10003,DIRECT
+DOMAIN，6666，DIRECT
 FINAL, DIRECT
 
 [RoutingDomainStrategy]
